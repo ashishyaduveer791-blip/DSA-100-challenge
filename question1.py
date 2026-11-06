@@ -1,0 +1,2 @@
+x="Ashish"
+print(x)
